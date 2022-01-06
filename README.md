@@ -5,3 +5,4 @@ A library of cheat sheets for lazy network engineers like myself :)
 - Junos - BGP  : https://github.com/wpacket/cheat-sheets/blob/master/Junos-BGP.pdf
 - Junos - EX   : https://github.com/wpacket/cheat-sheets/blob/master/Junos-EX.pdf
 - Junos - SRX - Migration : https://github.com/wpacket/cheat-sheets/blob/master/Junos-SRX-Migration.pdf
+- JUNOS - CheatSheet : https://github.com/wpacket/cheat-sheets/blob/master/JUNOS-CheatSheet.pdf
